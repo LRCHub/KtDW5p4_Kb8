@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "オーバー！",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-26T08:04:07.923801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イッツ・オーバー",
+      "artist": "チーター・ガールズ",
+      "has_synced": true,
+      "path": "select/01_イッツ・オーバー_チーター・ガールズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オーバー・ザ・レインボウ",
+      "artist": "Herb Ohta",
+      "has_synced": false,
+      "path": "select/02_オーバー・ザ・レインボウ_Herb_Ohta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キングゲイナー・オーバー!",
+      "artist": "福山芳樹",
+      "has_synced": true,
+      "path": "select/03_キングゲイナー・オーバー!_福山芳樹.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キングゲイナー・オーバー!",
+      "artist": "福島芳樹",
+      "has_synced": true,
+      "path": "select/04_キングゲイナー・オーバー!_福島芳樹.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オーバー",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/05_オーバー_ゆず.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オーバー",
+      "artist": "riya",
+      "has_synced": true,
+      "path": "select/06_オーバー_riya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オーバー - \"Over\"",
+      "artist": "riya",
+      "has_synced": true,
+      "path": "select/07_オーバー_-__Over_riya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーバー!",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_オーバー!_いよわ.txt"
+    }
+  ]
+}
